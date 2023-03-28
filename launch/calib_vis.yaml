@@ -1,6 +1,6 @@
 image_width: 2048
 image_height: 1536
-camera_name: aravis_cam/vis
+camera_name: jai_cam/vis
 camera_matrix:
   rows: 3
   cols: 3
